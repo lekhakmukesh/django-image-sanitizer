@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+django_image_sanitizer/__init__.py
+django_image_sanitizer/middleware.py
+django_image_sanitizer/utils.py
+django_image_sanitizer.egg-info/PKG-INFO
+django_image_sanitizer.egg-info/SOURCES.txt
+django_image_sanitizer.egg-info/dependency_links.txt
+django_image_sanitizer.egg-info/requires.txt
+django_image_sanitizer.egg-info/top_level.txt
